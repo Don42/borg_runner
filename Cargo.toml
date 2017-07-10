@@ -1,0 +1,7 @@
+[package]
+name = "borg_runner"
+version = "0.1.0"
+authors = ["Marco 'don' Kaulea <DonMarco42@gmail.com>"]
+
+[dependencies]
+dotenv="0.10.0"
